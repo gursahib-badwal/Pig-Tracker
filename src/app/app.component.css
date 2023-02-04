@@ -1,0 +1,30 @@
+#pig-report {
+    margin-left: 45%;
+}
+
+#report-pig {
+    margin-top: 20px;
+    width: 60%;
+    height: 200px;
+    margin-left: 10%;
+}
+
+#more-table{
+    width: 15%;
+    background-color: bisque;
+    border-radius: 5px;
+}
+
+#input_form{
+    width: 30%;
+    background-color: rgb(234, 170, 243);
+    border-radius: 5px;
+}
+
+#close-form {
+    margin: 4px;
+}
+
+#submit-form {
+    margin: 4px;
+}
