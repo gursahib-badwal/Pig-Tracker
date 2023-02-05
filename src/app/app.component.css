@@ -1,4 +1,4 @@
-#pig-report {
+/* #pig-report {
     margin-left: 45%;
 }
 
@@ -27,4 +27,54 @@
 
 #submit-form {
     margin: 4px;
-}
+} */
+#mapid {
+    border: 1px solid #ddd;
+  }
+  
+  .table {
+    margin-top: 20px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  #pig-report {
+    margin-top: 20px;
+  }
+  
+  #input_form {
+    display: inline-block;
+    margin-top: 20px;
+    width: 60%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  #input_form .form-label {
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+  }
+  
+  #input_form input[type="text"], #input_form input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+  }
+  
+  #close-form, #submit-form {
+    margin-top: 20px;
+  }
+  
+  #more-table {
+    width: 50%;
+    margin: 20px auto;
+    text-align: left;
+  }
+  
+  #more-table td:first-child {
+    font-weight: bold;
+  }
