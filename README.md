@@ -1,4 +1,4 @@
-# FinalProject
+# Pig Tracker
 
 Developed a web application using Angular based on a scenario where a farmer has lost all his pigs and this application helps the farmer find his pigs.
 
